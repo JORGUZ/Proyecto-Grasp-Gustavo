@@ -12,7 +12,7 @@ void SolucionGrasp(int m,int n,float matriz[500][500]);
 
 void main()
 {
-   float matriz[500][500];//matriz que indica las distancias entre los puntos en decimales 
+   float matriz[500][500];//matrizque indica las distancias entre los puntos en decimales 
    int m,n,i; //m es el numero disponible de posciones para elegir// n es el numero de cuantos se deben elegir
    int solucion[50];
    
