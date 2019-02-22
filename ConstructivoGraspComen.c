@@ -373,6 +373,7 @@ void main()
 	   }
 		printf("\n\nMinima distancia= %.5f",minDis);
 }
-   
+
+// * writen by  Jorge G. Moreno López.  * jorgustav@gmail.com*// 
    
  
